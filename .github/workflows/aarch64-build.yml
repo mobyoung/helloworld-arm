@@ -1,4 +1,4 @@
-name: Test Build
+name: Build arm ShadowSocksR Plus+
 
 on:
   workflow_dispatch:
